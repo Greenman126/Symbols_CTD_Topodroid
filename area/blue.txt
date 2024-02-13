@@ -1,0 +1,7 @@
+encoding utf-8
+symbol area
+name blue
+th_name u:blue
+group colorarea
+color #3492f7 0x80
+endsymbol

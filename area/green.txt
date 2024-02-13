@@ -1,8 +1,7 @@
 encoding utf-8
-symbol line
+symbol area
 name green
 th_name u:green
-group colorline
-color #00ff00
-width 1
+group colorarea
+color #00ff00 0x80
 endsymbol

@@ -1,0 +1,7 @@
+encoding utf-8
+symbol area
+name purple
+th_name u:purple
+group colorarea
+color #8a1bf2 0x80
+endsymbol

@@ -1,0 +1,7 @@
+encoding utf-8
+symbol area
+name red
+th_name u:red
+group colorarea
+color #ff0000 0x80
+endsymbol

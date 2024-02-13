@@ -1,0 +1,7 @@
+encoding utf-8
+symbol area
+name white
+th_name u:white
+group colorarea
+color #ffffff 0x80
+endsymbol

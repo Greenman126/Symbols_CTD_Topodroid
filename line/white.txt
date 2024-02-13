@@ -1,8 +1,8 @@
 encoding utf-8
 symbol line
-name green
-th_name u:green
+name white
+th_name u:white
 group colorline
-color #00ff00
+color #ffffff
 width 1
 endsymbol

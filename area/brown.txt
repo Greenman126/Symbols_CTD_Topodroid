@@ -1,0 +1,7 @@
+encoding utf-8
+symbol area
+name brown
+th_name u:brown
+group colorarea
+color #cc9900 0x80
+endsymbol
