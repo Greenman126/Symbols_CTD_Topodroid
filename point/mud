@@ -1,0 +1,26 @@
+encoding utf-8
+symbol point
+name mud
+name-de Schlamm
+name-es barro
+name-fr boue
+name-hu sár
+name-it fango
+name-pt lama
+name-ro nămol
+name-ru грязь
+name-sk bahno
+name-ua грязь
+th_name mud
+group mud
+orientation no
+color 0xffcc66
+path
+  moveTo -1.5 -1.5
+  lineTo 1.5 -1.5
+  moveTo -3.5 1.5
+  lineTo -1 1.5
+  moveTo 1 1.5
+  lineTo 3.5 1.5
+endpath
+endsymbol

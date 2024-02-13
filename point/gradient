@@ -1,0 +1,29 @@
+encoding utf-8
+symbol point
+name slope
+name-bg наклон
+name-cn 坡向
+name-de Gefälle
+name-es pendiente
+name-fa شیب
+name-fr pente
+name-hu lejtő
+name-it pendenza
+name-pt gradiente
+name-ro direcție_de_pantă
+name-ru уклон
+name-sk výzdvih
+name-ua нахил
+th_name gradient
+group gradient
+orientation yes
+color 0x33ff66
+path
+  moveTo 0 2
+  lineTo 0 -6
+  moveTo -2 2
+  lineTo -4 -3
+  moveTo 2 2
+  lineTo 4 -3
+endpath
+endsymbol

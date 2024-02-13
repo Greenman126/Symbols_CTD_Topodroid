@@ -1,0 +1,8 @@
+encoding utf-8
+symbol line
+name blue
+th_name u:blue
+group colorline
+color #3492f7
+width 1
+endsymbol

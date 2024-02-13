@@ -1,0 +1,8 @@
+encoding utf-8
+symbol line
+name green
+th_name u:green
+group border
+color #169160
+width 1
+endsymbol
