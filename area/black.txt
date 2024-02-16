@@ -1,7 +1,0 @@
-encoding utf-8
-symbol area
-name black
-th_name u:black
-group colorarea
-color 0000000 0x80
-endsymbol

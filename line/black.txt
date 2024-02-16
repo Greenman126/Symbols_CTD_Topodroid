@@ -1,8 +1,0 @@
-encoding utf-8
-symbol line
-name black
-th_name u:black
-group colorline
-color #000000
-width 1
-endsymbol
